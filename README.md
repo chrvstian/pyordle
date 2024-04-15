@@ -26,7 +26,9 @@
 ## Demo
 
 <div align="center">
+  <h3>Wrong answer example</h4>
     <img alt="Wrong answer demo" src="https://github.com/chrvstian/pyordle/blob/main/demo/demo_wrong_word.png" width="100%" height="100%">
+  <h3>Correct answer example</h3>
     <img alt="Correct answer demo" src="https://github.com/chrvstian/pyordle/blob/main/demo/demo_correct_word.png" width="100%" height="100%">
 </div>
 
@@ -57,26 +59,7 @@ cd pyordle
 pip3 install rich
 ```
 
-### 3. Generate your secret key for session management
-
-**Step 1:** Open your terminal & input the following code
-```shell
-python3
-```
-
-**Step 2:** Generate your secret key
-```shell
-import secrets; secrets.token_hex()
-```
-
-**Step 3:** Copy your token & paste it into app.py
-- Copy the token that it creates and locate the 27th line in app.py
-- Paste the key into the line that says:
-```shell
-app.secret_key = "AddYourSecretKeyHere" # Secret key used for session management
-```
-
-### 4. Run the program
+### 3. Run the program
 
 ```shell
 python3 pyordle.py

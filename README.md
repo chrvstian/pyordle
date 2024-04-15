@@ -2,7 +2,6 @@
   <h1 align="center">Pyordle</h1>
   <img alt="PyShot Logo" src="https://github.com/chrvstian/pyordle/blob/main/.github/logo.png" width="40%" height="40%">
   <h3>A terminal-based wordle clone written in Python 3.</h3>
-
 </div>
 
 <br/>
@@ -26,7 +25,10 @@
 
 ## Demo
 
-https://github.com/chrvstian/pyshot/assets/141359845/55a53f8a-4e3f-4f89-9103-493e3965981a.mov
+<div align="center">
+    <img alt="Wrong answer demo" src="https://github.com/chrvstian/pyordle/blob/main/demo/demo_wrong_word.png" width="100%" height="100%">
+    <img alt="Correct answer demo" src="https://github.com/chrvstian/pyordle/blob/main/demo/demo_correct_word.png" width="100%" height="100%">
+</div>
 
 ## Tech Stack
 

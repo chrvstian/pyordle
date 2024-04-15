@@ -14,7 +14,9 @@
 
 <br/>
 
-Pyordle is a terminal-based wordle clone. Unlike the original worldle, you can play it offline!
+<div align="center">
+<h3> Pyordle is a terminal-based wordle clone. Unlike the original worldle, you can play it offline! </h3>
+</div>
 
 ## Features
 

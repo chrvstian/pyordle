@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Pyordle</h1>
-  <img alt="PyShot Logo" src="https://github.com/chrvstian/pyordle/blob/main/.github/logo.png" width="100%" height="100%">
+  <img alt="PyShot Logo" src="https://github.com/chrvstian/pyordle/blob/main/.github/logo.png" width="60%" height="60%">
   <h3>A terminal-based wordle clone written in Python 3.</h3>
 
 </div>
